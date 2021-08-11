@@ -13,22 +13,21 @@ just practicing Markdown
 - [x] This has been down
 - [ ] This hasn't been down
 #### title 4
-2. number list
-3. two
-4. three
-5. four
+1. number list
+2. two
+3. three
+4. four
 	1. _one_
-	2. _ two _
+	2. __two__
 	3. *three*
-	4. \* four *
-		1. __one__
-		2. __ two __
-		3. **three**
-		4. ** four **
+	4. **four**
+		1. __*one*__
+		2. ~two~
+		3. three
+		4. four
 		5. `string str = "Hello World";`
 		6. [Google](https://www.google.com.tw/)
-5. if you do this "5."
-
+5. if you do this "5."  
 5\. and if you do this "5\\."
 ##### title 5
 this is some C++ code
