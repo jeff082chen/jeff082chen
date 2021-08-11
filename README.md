@@ -25,10 +25,10 @@ just practicing Markdown
 
 5\. and if you do this "5\\."
 ##### title 5
-this is some c++ code
+this is some C++ code
 ```cpp 
 for (int i = 0; i < 10; ++i) {
-    cout << "Hello World! " << i  << endl;
+    cout << "Hello World! " << i << endl;
 }
 ```
 
@@ -39,7 +39,9 @@ for i in 0..<10 {
 }
 ```
 ###### title 6
-something something
+---
+this is a horizontal line
+***
 
 <!--
 **jeff082chen/jeff082chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
