@@ -13,14 +13,18 @@ just practicing Markdown
 3. two
 4. three
 5. four
-	1. one
-	2. two
-	3. three
-	4. four
-		1. one
-		2. two
-		3. three
-		4. four
+	1. _one_
+	2. _ two _
+	3. *three*
+	4. * four *
+	5. *  five  *
+		1. __one__
+		2. __ two __
+		3. **three**
+		4. ** four **
+		5. `string str = "Hello World";`
+		6. [Google](https://www.google.com.tw/)
+		7. ![](https://www.twilight-zone.nl/WebRoot/Pins/Shops/Twilightzone/6051/0996/18EB/2367/AA85/0A0C/05B7/0BBE/SS501196U_1.jpg)
 5. if you do this "5."
 
 5\. and if you do this "5\\."
