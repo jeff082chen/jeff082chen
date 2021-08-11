@@ -21,7 +21,8 @@ just practicing Markdown
 		2. two
 		3. three
 		4. four
-		5\. avoid number to become a list "5\."
+5. if you do this "5."
+5\. and if you do this "5\."
 ##### title 5
 something something
 ###### title 6
