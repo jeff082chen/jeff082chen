@@ -8,6 +8,10 @@ just practicing Markdown
 		+ and the sublist of the sublist
 ### title 3
 >this is some quote
+>>some more quote
+>>>more and more
+- [x] This has been down
+- [ ] This hasn't been down
 #### title 4
 2. number list
 3. two
@@ -24,7 +28,6 @@ just practicing Markdown
 		4. ** four **
 		5. `string str = "Hello World";`
 		6. [Google](https://www.google.com.tw/)
-		7. ![](https://www.twilight-zone.nl/WebRoot/Pins/Shops/Twilightzone/6051/0996/18EB/2367/AA85/0A0C/05B7/0BBE/SS501196U_1.jpg)
 5. if you do this "5."
 
 5\. and if you do this "5\\."
@@ -46,6 +49,7 @@ for i in 0..<10 {
 ---
 this is a horizontal line
 ***
+![Spider Gwen](https://www.twilight-zone.nl/WebRoot/Pins/Shops/Twilightzone/6051/0996/18EB/2367/AA85/0A0C/05B7/0BBE/SS501196U_1.jpg)
 
 <!--
 **jeff082chen/jeff082chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
