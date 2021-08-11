@@ -1,7 +1,11 @@
 # title 1
 >this is some quote
 ## title 2
-something something
++ this is a list
+- this is also a list
+* this is still a list
+	- and this is a sub list
+		+ and the sublist of the sublist
 ### title 3
 something something
 #### title 4
