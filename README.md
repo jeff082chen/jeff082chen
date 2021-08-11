@@ -23,12 +23,19 @@ just practicing Markdown
 		4. four
 5. if you do this "5."
 
-5\. and if you do this "5\."
+5\. and if you do this "5\\."
 ##### title 5
-this is some code
+this is some c++ code
 ```cpp 
 for (int i = 0; i < 10; ++i) {
-    cout << "Hello World!" << endl;
+    cout << "Hello World! " << i  << endl;
+}
+```
+
+and this is some Swift code
+```swift
+for i in 0..<10 {
+    print("Hello World! \(i)")
 }
 ```
 ###### title 6
