@@ -1,5 +1,5 @@
 # title 1
->this is some quote
+just practicing Markdown
 ## title 2
 + this is a list
 - this is also a list
@@ -7,9 +7,15 @@
 	- and this is a sub list
 		+ and the sublist of the sublist
 ### title 3
-something something
+>this is some quote
 #### title 4
-something something
+1. number list
+2. two
+3. three
+5. you expect this to be four?
+	2. start from two
+	4. I hate add number
+	1. back to one. can I do this? I don't know
 ##### title 5
 something something
 ###### title 6
