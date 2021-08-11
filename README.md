@@ -22,9 +22,15 @@ just practicing Markdown
 		3. three
 		4. four
 5. if you do this "5."
+
 5\. and if you do this "5\."
 ##### title 5
-something something
+this is some code
+```cpp 
+for (int i = 0; i < 10; ++i) {
+    cout << "Hello World!" << endl;
+}
+```
 ###### title 6
 something something
 
