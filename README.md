@@ -21,7 +21,6 @@ just practicing Markdown
 	2. _ two _
 	3. *three*
 	4. \* four *
-	5. \*  five  *
 		1. __one__
 		2. __ two __
 		3. **three**
