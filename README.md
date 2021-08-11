@@ -12,8 +12,9 @@ just practicing Markdown
 1. number list
 2. two
 3. three
+	3. haha
 5. you expect this to be four?
-	2. start from two
+	1. start from two
 	4. I hate add number
 	1. back to one. can I do this? I don't know
 ##### title 5
