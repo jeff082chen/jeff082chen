@@ -9,10 +9,10 @@ just practicing Markdown
 ### title 3
 >this is some quote
 #### title 4
-1. number list
-2. two
-3. three
-4. four
+2. number list
+3. two
+4. three
+5. four
 	1. one
 	2. two
 	3. three
@@ -21,6 +21,7 @@ just practicing Markdown
 		2. two
 		3. three
 		4. four
+		5\. avoid number to become a list "5\."
 ##### title 5
 something something
 ###### title 6
