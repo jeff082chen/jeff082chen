@@ -13,3 +13,5 @@ Hi, I'm Jeffrey.
 + SQLite
 + LaTeX
 + Flask
+
+![snake gif](https://github.com/jeff082chen/jeff082chen/blob/output/github-contribution-grid-snake.gif)
