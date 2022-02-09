@@ -20,6 +20,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff082chen&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff082chen&langs_count=10&layout=compact&exclude_repo=cgu_AI_textbooks)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/jeff082chen/jeff082chen/blob/output/github-contribution-grid-snake.gif)
