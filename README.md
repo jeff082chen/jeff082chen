@@ -22,5 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff082chen&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/jeff082chen/jeff082chen/blob/output/github-contribution-grid-snake.gif)
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
