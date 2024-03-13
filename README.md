@@ -20,4 +20,10 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-![snake gif](https://github.com/jeff082chen/jeff082chen/blob/output/github-contribution-grid-snake.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff082chen&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
